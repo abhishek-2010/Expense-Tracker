@@ -19,4 +19,4 @@ python main.py
 - JSON for storage
 
 ## Preview
-![Expense Tracker](screenshot.png)
+![Expense Tracker](screenshot.png.png)
