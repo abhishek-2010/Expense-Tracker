@@ -17,3 +17,6 @@ python main.py
 ## Tech Used
 - Python 3.11+
 - JSON for storage
+
+## Preview
+![Expense Tracker](screenshot.png)
